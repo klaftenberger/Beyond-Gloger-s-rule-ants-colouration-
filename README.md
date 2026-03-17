@@ -18,7 +18,7 @@ Colour is a key trait involved in camouflage, physiological protection and therm
 * script_raw_and_partial_effects_FIGURE_S4.R: Code to generate analyses and plots for Figure S4 (Supplementary Material).
 
 ### Note
-The figures without dedicated script are generated directly within the main script.
+The figures without dedicated script are generated directly within the main script and are clearly annotated for easy identification.
 
 ### Data availability
 
