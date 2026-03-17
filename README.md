@@ -1,6 +1,6 @@
 # Research Article
 
-This repository contains the code and data used to carry out analyses for this research article:
+This repository contains the code used to carry out analyses for this research article:
 
 ### Klaftenberger et al., 2026 - Beyond Gloger’s rule: multiple biogeographic drivers of dark and red colouration in ants. In preparation.
 
