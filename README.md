@@ -9,17 +9,13 @@ Colour is a key trait involved in camouflage, physiological protection and therm
 
 ### Contents
 
-* Beyond_gloger_ants_main_script.R
-→ Main script including all analyses used in the study.
+* Beyond_gloger_ants_main_script.R: Main script including all analyses used in the study.
 
-* script_PCA_density_histo_curves_FIGURE_2.R
-→ Code to generate analyses and plots for Figure 2.
+* script_PCA_density_histo_curves_FIGURE_2.R: Code to generate analyses and plots for Figure 2.
 
-* script_phylogenetic_distance_ecoregions_FIGURE_S5.R
-→ Code to generate analyses and plots for S5 (Supplementary Material).
+* script_phylogenetic_distance_ecoregions_FIGURE_S5.R: Code to generate analyses and plots for S5 (Supplementary Material).
 
-* script_raw_and_partial_effects_FIGURE_S4.R
-→ Code to generate analyses and plots for Figure S4 (Supplementary Material).
+* script_raw_and_partial_effects_FIGURE_S4.R: Code to generate analyses and plots for Figure S4 (Supplementary Material).
 
 ### Note
 The figures without dedicated script are generated directly within the main script.
