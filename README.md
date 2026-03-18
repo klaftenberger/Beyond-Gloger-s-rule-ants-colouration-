@@ -20,6 +20,3 @@ Colour is a key trait involved in camouflage, physiological protection and therm
 ### Note
 The figures without dedicated script are generated directly within the main script and are clearly annotated for easy identification.
 
-### Data availability
-
-The data required to run these scripts are available at: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19093159.svg)](https://doi.org/10.5281/zenodo.19093159).
