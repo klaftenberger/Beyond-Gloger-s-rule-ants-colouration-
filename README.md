@@ -22,6 +22,4 @@ The figures without dedicated script are generated directly within the main scri
 
 ### Data availability
 
-The data required to run these scripts are available on Zenodo:
-
-[DOI 10.5281/zenodo.19093159]
+The data required to run these scripts are available at: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19093159.svg)](https://doi.org/10.5281/zenodo.19093159).
