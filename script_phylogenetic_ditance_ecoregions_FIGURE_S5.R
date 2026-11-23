@@ -1,6 +1,6 @@
-#### Title: SCript Figure 2 for the study: "Beyond Gloger’s rule: multiple biogeographic drivers of red and dark colouration in ants"
-### Authors: Tristan Klaftenberger, Brian L. Fisher, Eddie Pérochon, Cleo Bertelsmeier*, Sébastien Ollier*
-## Analyses/script: Tristan Klaftenberger
+#### Title: Script Figure 2 for the study: "Beyond Gloger’s rule: multiple biogeographic drivers of red and dark colouration in ants"
+### Authors: XX
+## Analyses/script: XX
 # Last update: 17/03/2025
 
 library(ggplot2)   #‘3.5.2’
