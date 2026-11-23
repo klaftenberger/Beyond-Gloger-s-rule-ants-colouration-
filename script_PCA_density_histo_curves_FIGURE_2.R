@@ -1,4 +1,4 @@
-#### Title: SCript Figure 2 for the study: "Beyond Gloger’s rule: multiple biogeographic drivers of red and dark colouration in ants"
+#### Title: Script Figure 2 for the study: "Beyond Gloger’s rule: multiple biogeographic drivers of red and dark colouration in ants"
 ### Authors: XX
 ## Analyses/script: XX
 # Last update: 17/03/2025
