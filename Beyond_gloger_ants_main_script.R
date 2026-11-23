@@ -1,6 +1,6 @@
 #### Title: Main analysis script for the study: "Beyond Gloger’s rule: multiple biogeographic drivers of red and dark colouration in ants"
-### Authors: Tristan Klaftenberger, Brian L. Fisher, Eddie Pérochon, Cleo Bertelsmeier*, Sébastien Ollier*
-## Analyses/script: Tristan Klaftenberger
+### Authors: XX
+## Analyses/script: XX
 # Last update: 17/03/2025
 
 library(sf)             #v‘1.0.16’
